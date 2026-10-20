@@ -1,0 +1,12 @@
+{
+    "name": "nikhil",
+    "age": 20,
+    "city": "New York",
+    "courses": [
+        "Mathematics",
+        "Physics",
+        "Computer Science"
+    ],
+    "university": "NYU",
+    "graduation_year": 2028
+}
