@@ -11,7 +11,3 @@ else:
     print("The result of division is:", result)
 finally:
     print("Execution completed.")
-
-
-
-
